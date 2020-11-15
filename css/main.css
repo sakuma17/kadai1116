@@ -33,11 +33,12 @@ p{
 	border-radius:20px;
 }
 table{
-	border-collapse:separate;
-	border-spacing:0px;
 	width:600px;
 	margin:40px auto;
 	text-align:center;
+}
+.collapse{
+	border-collapse:collapse;
 }
 th,td{
 	border:solid 1px #7f7f7f;
