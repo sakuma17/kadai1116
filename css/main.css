@@ -36,12 +36,13 @@ table{
 	width:600px;
 	margin:40px auto;
 	text-align:center;
+	border:1px double black;
 }
 .collapse{
 	border-collapse:collapse;
 }
 th,td{
-	border:solid 1px #7f7f7f;
+	border:1px solid #7f7f7f;
 }
 th{
 	background:#333;
