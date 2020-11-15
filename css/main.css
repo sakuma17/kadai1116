@@ -33,6 +33,7 @@ p{
 	border-radius:20px;
 }
 table{
+	border-collapse: collapse;
 	width:600px;
 	margin:40px auto;
 	text-align:center;
