@@ -33,13 +33,14 @@ p{
 	border-radius:20px;
 }
 table{
-	border-collapse: collapse;
+	border-collapse:separate;
+	border-spacing:0px;
 	width:600px;
 	margin:40px auto;
 	text-align:center;
 }
 th,td{
-	border:solid 2px #7f7f7f;
+	border:solid 1px #7f7f7f;
 }
 th{
 	background:#333;
